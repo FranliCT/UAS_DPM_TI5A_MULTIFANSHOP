@@ -11,7 +11,7 @@ public class Halaman_LupaPassword1 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_barang);
+        setContentView(R.layout.activity_lupapassword1);
     }
 
     public void kirim(View view) {
