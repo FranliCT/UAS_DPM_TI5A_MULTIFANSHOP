@@ -24,12 +24,16 @@ public class Halaman_Login extends AppCompatActivity {
         startActivity(intent);
     }
 
+<<<<<<< HEAD
+    public void back2(View view) {
+=======
     public void dash(View view) {
         Intent intent = new Intent(Halaman_Login.this, Halaman_Dashboard.class);
         startActivity(intent);
     }
 
     public void cover(View view) {
+>>>>>>> 1911500006_FarahDilahNahdah
         Intent intent = new Intent(Halaman_Login.this, cover.class);
         startActivity(intent);
     }
