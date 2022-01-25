@@ -23,4 +23,14 @@ public class Halaman_Login extends AppCompatActivity {
         Intent intent = new Intent(Halaman_Login.this, Halaman_LupaPassword1.class);
         startActivity(intent);
     }
+
+    public void dash(View view) {
+        Intent intent = new Intent(Halaman_Login.this, Halaman_Dashboard.class);
+        startActivity(intent);
+    }
+
+    public void cover(View view) {
+        Intent intent = new Intent(Halaman_Login.this, cover.class);
+        startActivity(intent);
+    }
 }
