@@ -18,6 +18,7 @@
             <ImageButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:onClick="back2"
                 android:background="@drawable/group16"></ImageButton>
 
             <ImageView
