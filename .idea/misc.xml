@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/ic_baseline_arrow_back_24_6.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/ic_baseline_search_4.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/ic_baseline_search_5.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/rectangle1_1.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/rectangle1_3.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/rectangle2_2.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable/rectangle2_4.xml" value="0.19282051282051282" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_barang.xml" value="0.1" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_halaman_dashboard.xml" value="0.16666666666666666" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_halaman_kategori.xml" value="0.16666666666666666" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_halaman_login.xml" value="0.1" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_halaman_lupa_password2.xml" value="0.1" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_lupapassword1.xml" value="0.1" />
+        <entry key="..\:/1911500006-Farah Dilah NahdahPertemuan7DPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_profile.xml" value="0.1" />
         <entry key="..\:/Aplikasi/Android Studio/PRAKTEKDPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/drawable-v24/hoodie_ncit_background.xml" value="0.2203125" />
         <entry key="..\:/Aplikasi/Android Studio/PRAKTEKDPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_barang.xml" value="0.22" />
         <entry key="..\:/Aplikasi/Android Studio/PRAKTEKDPM/UAS_DPM_TI5A_MULTIFANSHOP/app/src/main/res/layout/activity_keranjang.xml" value="0.1" />
