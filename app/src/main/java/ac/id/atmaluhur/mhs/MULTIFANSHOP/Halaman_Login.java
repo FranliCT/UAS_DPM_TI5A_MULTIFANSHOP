@@ -14,8 +14,8 @@ public class Halaman_Login extends AppCompatActivity {
         setContentView(R.layout.activity_halaman_login);
     }
 
-    public void login(View view) {
-        Intent intent = new Intent(Halaman_Login.this, Halaman_Login.class);
+    public void regis(View view) {
+        Intent intent = new Intent(Halaman_Login.this, Halaman_Register.class);
         startActivity(intent);
     }
 
