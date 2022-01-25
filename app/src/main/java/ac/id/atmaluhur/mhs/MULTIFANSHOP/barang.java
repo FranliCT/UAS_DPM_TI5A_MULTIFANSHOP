@@ -18,4 +18,9 @@ public class barang extends AppCompatActivity {
         Intent intent = new Intent(barang.this, keranjang.class);
         startActivity(intent);
     }
+
+    public void back5(View view) {
+        Intent intent = new Intent(barang.this, Halaman_Dashboard.class);
+        startActivity(intent);
+    }
 }

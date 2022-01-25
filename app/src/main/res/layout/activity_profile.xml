@@ -32,15 +32,16 @@
                     android:drawableStart="@drawable/arrow"
                     android:paddingStart="20dp"
                     android:paddingEnd="20dp"
+                    android:onClick="back6"
                     android:layout_width="match_parent"
-                    android:layout_height="40dp"></TextView>
+                    android:layout_height="40dp" />
             </LinearLayout>
 
             <RelativeLayout
-                android:gravity="center"
-                android:layout_weight="2"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent">
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="center">
 
                 <ImageView
                     android:layout_width="173dp"
