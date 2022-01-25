@@ -19,7 +19,11 @@ public class Halaman_LupaPassword1 extends AppCompatActivity {
         startActivity(intent);
     }
 
+<<<<<<< HEAD
+    public void back3(View view) {
+=======
     public void login(View view) {
+>>>>>>> 1911500006_FarahDilahNahdah
         Intent intent = new Intent(Halaman_LupaPassword1.this, Halaman_Login.class);
         startActivity(intent);
     }
